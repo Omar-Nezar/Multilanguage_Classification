@@ -1,11 +1,7 @@
-numpy 
-matplotlib 
+numpy
+matplotlib
 pandas
-
-tensorflow
 scikit-learn
-
-
 wordcloud
-
- nltk
+nltk
+tensorflow
